@@ -2636,6 +2636,7 @@ cornerstone-math@^0.1.8:
 
 cornerstone-tools@brunoalvesdefaria/cornerstoneTools#bidirectional-magnify-improved-touch:
   version "4.0.1"
+  uid "76153a17d25ba16782fc6c3da217e48570d30ae7"
   resolved "https://codeload.github.com/brunoalvesdefaria/cornerstoneTools/tar.gz/76153a17d25ba16782fc6c3da217e48570d30ae7"
   dependencies:
     "@babel/runtime" "7.1.2"
